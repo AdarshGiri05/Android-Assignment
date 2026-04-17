@@ -1,7 +1,7 @@
 # Android-Assignment Outputs :
 
-## Assignment1
-![output](Assignment1/output/Img.1.png)
+## Assignment 1
+![Output](https://raw.githubusercontent.com/AdarshGiri05/Android-Assignment/main/Assignment1/output/Img.1.png)
 
 ## Assignment2
 ![output](Assignment2/output/img1.png)
