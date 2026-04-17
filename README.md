@@ -1,5 +1,4 @@
 # Android-Assignment Outputs :
-# Android Assignments
 
 ## Assignment 1
 ![Output](Assignment1/output/img1.png)
