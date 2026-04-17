@@ -1,12 +1,12 @@
 # Android-Assignment Outputs :
 
-## Assignment 1
+## Assignment1
 ![Output](Assignment1/output/Img.1.png)
 
-## Assignment 2
+## Assignment2
 ![Output](Assignment2/output/img1.png)
 
-## Assignment 3
+## Assignment3
 ![Output](Assignment3/output/img1.png)
 
 ## Assignment 4
