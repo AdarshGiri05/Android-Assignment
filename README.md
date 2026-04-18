@@ -12,5 +12,7 @@
 ## Assignment 4 :-
 ![output](https://github.com/AdarshGiri05/Android-Assignment/blob/main/Assignment%204/img1.png?raw=true)
 ## Assignment 5:-
-![output](https://github.com/AdarshGiri05/Android-Assignment/blob/main/Assignment%204/img1.png?raw=true)
 
+![output](https://github.com/AdarshGiri05/Android-Assignment/blob/main/images/img1.png?raw=true)
+<br/>
+<img src="images/img1.png" width="400"/>
