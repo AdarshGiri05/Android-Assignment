@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment 7</string>
+    <string name="select_image">Select Image</string>
+    <string name="grid_image">Grid Image</string>
+</resources>
