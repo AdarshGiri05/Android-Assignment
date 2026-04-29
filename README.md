@@ -13,3 +13,6 @@
 
 ## Assignment 5:-
 <img src="Assignment5/img1.png" width="300"/>
+## Assignment 6:-
+<img src="Assignment6/img1.png" width="300"/>
+
