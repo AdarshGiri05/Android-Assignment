@@ -1,6 +1,6 @@
 # Android-Assignment Outputs :
 ## Assignment 1 :-
-![output](https://github.com/AdarshGiri05/Android-Assignment/blob/main/Assignment1/Img1.png?raw=true)
+![output](https://github.com/AdarshGiri05/Android-Assignment/blob/main/Assignment%201/Img1.png?raw=true)
 
 ## Assignment 2 :-
 ![output](https://github.com/AdarshGiri05/Android-Assignment/blob/main/Assignment2/img1.png?raw=true)
