@@ -21,5 +21,5 @@
 <img src="Assignment7/img1.png" width="300"/>
 
 ## Assignment 8:-
-![output](https://github.com/AdarshGiri05/Android-Assignment/blob/main/Assignment%208/img1.jpeg?raw=true)
+<img src="Assignment8/img1.png" width="300"/>
 
