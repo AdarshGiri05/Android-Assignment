@@ -21,7 +21,7 @@
 <img src="Assignment 7/img1.png" width="300"/>
 
 ## Assignment 8:-
-<img src="Assignment 8/img1.png" width="300"/>
+<img src="Assignment 8/img1.jpeg" width="300"/>
 
 ## Assignment 9:-
 <img src="Assignment 9/img1.png" width="300"/>
