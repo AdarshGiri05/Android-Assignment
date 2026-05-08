@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_save">#0000ff</color>
+    <color name="btn_send">#ff0000</color>
+    <color name="btn_dialernumber">#00ff00</color>
+</resources>
